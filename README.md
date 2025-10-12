@@ -1,1 +1,1 @@
-# azure-end-to-end-CI-CD-project
+# Azure-end-to-end-CI-CD-project
