@@ -137,7 +137,7 @@
 									"parameters": {
 										"target_container": "bronze",
 										"target_folder": {
-											"value": "@{item().table}_cdc",
+											"value": "@{item().table}",
 											"type": "Expression"
 										},
 										"target_file": {
@@ -305,7 +305,7 @@
 												"parameters": {
 													"container": "bronze",
 													"folder": {
-														"value": "@{item().table}_cdc",
+														"value": "@{item().table}",
 														"type": "Expression"
 													},
 													"file": "cdc.json"
